@@ -6,3 +6,4 @@ Smart contract for NFTs that contain SWARM locations per address
 - There can be only one triplet per address 
 
 
+to be deployed after tests are done
